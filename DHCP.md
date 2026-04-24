@@ -1,9 +1,9 @@
 DHCP (Dynamic Host Connection Protocol)
 
-1. DHCP CLIENT -- ?? PELANGGAN ?? Menyediakan alamat IP
-2. DHCP SERVER -- ?? PENYEDIA ?? Menyediakan Alamat IP
-        - LEASE TIME <--- Durasi Pakai
-        - IP POOL    <--- Daftar Alamat IP
+1. DHCP CLIENT = PELANGGAN  > Menyediakan alamat IP
+2. DHCP SERVER = PENYEDIA   > Menyediakan Alamat IP
+        - LEASE TIME  =  Durasi Pakai
+        - IP POOL     =  Daftar Alamat IP
         dns server 8.8.8.8
         guna dns server? menterjemahkan alamat ip ke domain
 
