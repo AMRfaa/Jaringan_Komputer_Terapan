@@ -73,7 +73,7 @@
 - [ ] ping PVC1 dengan PVC2   = (tidak terkoneksi)
 - [ ] ping PVC2 dengan PVC1   = (tidak terkoneksi)
       
-### Solusi : tambahkan gateway-nya, gateway yang berhubungan dengan mirotiknya. 
+### 9. Solusi : tambahkan gateway-nya, gateway yang berhubungan dengan mirotiknya. 
 ```
 Jadi untuk mengatasi permasalahan konektivitas antar jaringan, cukup menambahkan
 default gateway pada masing-masing host yang mengarah ke router (Mikrotik).
